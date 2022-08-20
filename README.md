@@ -12,4 +12,5 @@ Web application to search films/series/games etc
 1. run `npm i` in both - root & client directories: to install existing dependencies
 2. create `.env` file with necessary *PORT* & *JWT_SECRET* fields
 3. run `npm run redis`: to start cache server listening
-4. run `npm run dev`:  to start local server & make app alive :)
+4. run `npm run build`:  to build client config
+5. run `npm run dev`:  to start local server & make app alive :)
